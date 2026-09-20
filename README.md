@@ -1,2 +1,2 @@
 # ControGenBench
-Controversy-Aware, Risk-Sensitive Generation Benchmark  争议感知与风险敏感生成 Benchmark
+ControGenBench: A Benchmark for Controversy-Aware and Risk-Sensitive Multi-Agent Generation
