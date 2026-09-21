@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.cn.md)
+
 # ControGenBench
 
 ControGenBench 是一个面向争议感知和风险敏感文本生成的评测基准。与传统安全基准将所有争议内容视为有害不同，ControGenBench 区分**建设性分歧**（丰富公共讨论）和**有害内容**（需要干预）。

@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.cn.md)
+
 # ControGenBench
 
 ControGenBench is a benchmark for evaluating controversy-aware and risk-sensitive text generation. Unlike traditional safety benchmarks that treat all controversial content as harmful, ControGenBench distinguishes between **constructive disagreement** that enriches public discourse and **harmful content** that warrants intervention.
